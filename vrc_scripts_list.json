@@ -1,0 +1,17 @@
+{
+ "descriptor": {"fileID": 542108242, "guid": "67cc4cb7839cd3741b63733d5adf0442","type": 3},
+ "pipeline": {"fileID": -1427037861, "guid": "4ecd63eff847044b68db9453ce219299","type": 3},
+ "physbone": {"fileID": 1661641543, "guid": "2a2c05204084d904aa4945ccff20d8e5","type": 3},
+ "physbonec": {"fileID": -1631200402, "guid": "2a2c05204084d904aa4945ccff20d8e5","type": 3},
+ "crecv": {"fileID": -1450912254, "guid": "80f1b8067b0760e4bb45023bc2e9de66","type": 3},
+ "csnder": {"fileID": -802764141, "guid": "80f1b8067b0760e4bb45023bc2e9de66","type": 3},
+ "vrcstation": {"fileID": 120943834, "guid": "67cc4cb7839cd3741b63733d5adf0442","type": 3},
+ "expparams": {"fileID": -1506855854, "guid": "67cc4cb7839cd3741b63733d5adf0442","type": 3},
+ "expmenu": {"fileID": -340790334, "guid": "67cc4cb7839cd3741b63733d5adf0442","type": 3},
+ "plc": {"fileID": 1852460640, "guid": "67cc4cb7839cd3741b63733d5adf0442","type": 3},
+ "alc": {"fileID": -1936262289, "guid": "67cc4cb7839cd3741b63733d5adf0442","type": 3},
+ "atc": {"fileID": -646210727, "guid": "67cc4cb7839cd3741b63733d5adf0442","type": 3},
+ "atps": {"fileID": 141706016, "guid": "67cc4cb7839cd3741b63733d5adf0442","type": 3},
+ "apd": {"fileID": -706344726, "guid": "67cc4cb7839cd3741b63733d5adf0442","type": 3},
+  "aloc": {"fileID": -453519674, "guid": "67cc4cb7839cd3741b63733d5adf0442","type": 3}
+}
