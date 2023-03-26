@@ -2,6 +2,7 @@
 Python script? that fixes unity missing scripts and blendShapes in animations in unpacked avatars
 
 ## Usage
+0. Install reauired things by runnning `install.bat` 
 1. Select unpacked folder from **[VRCCache ripper](https://github.com/vovan-ivanoff/VRCCacheRipper)**
 2. Run `riper.bat -s *path to Assets folder* ` 
 3. Import this assets folder into **new** unity project
