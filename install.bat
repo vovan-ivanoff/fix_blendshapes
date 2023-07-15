@@ -1,7 +1,6 @@
-python -m venv ripifx
-call ./ripfix/Scripts/activate.bat
-pip install pyyaml
-call ./ripfix/Scripts/deactivate.bat
+python -m venv ripfix
+cd ripfix\Scripts\
+pip.exe install pyyaml
 echo.
 echo ---------------DONE!-------------
 pause
